@@ -1,0 +1,11 @@
+# n8n runtime data
+.n8n/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
